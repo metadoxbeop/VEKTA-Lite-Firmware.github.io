@@ -1,0 +1,10 @@
+{
+  "name": "VEKTA-Lite v1.6",
+  "version": "1.6",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3",
+      "parts": [ { "path": "VEKTA-Lite-v1_6.bin", "offset": 0 } ]
+    }
+  ]
+}
